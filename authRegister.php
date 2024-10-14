@@ -17,7 +17,7 @@ if($_SERVER ["REQUEST_METHOD"] == "POST"){
 
 
     $host = "localhost";
-$database = "ecommerceb2";
+$database = "ecommb1";
 $dbusername = "root";
 $dbpassword = "";
 
